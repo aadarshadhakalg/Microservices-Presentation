@@ -1,0 +1,3 @@
+[submodule "nodejs-microservices-template"]
+	path = nodejs-microservices-template
+	url = git@github.com:aadarshadhakalg/nodejs-microservices-template.git
