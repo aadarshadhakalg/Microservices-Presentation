@@ -1,7 +1,7 @@
 ---
 title: Microservice Architecture
 sub_title: Service-Oriented Architecture done Right
-author: Aadarsha Dhakal, Avaye Bajracharya, Aditya Jha
+author: Aadarsha Dhakal, Avaya Bajracharya, Aditya Jha
 theme:
   override:
     code:
