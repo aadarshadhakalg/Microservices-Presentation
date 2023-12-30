@@ -289,8 +289,20 @@ echo "https://$STATIC_WEB_APP_HOSTNAMES"
 
 <!-- end_slide -->
 
+Any Questions?
+===
+
+<!-- end_slide -->
+
 # Thank You!
 
-Any Questions ???
-===
+Get Slides: [](https://github.com/aadarshadhakalg/Microservices-Presentation)
+Practice Workshop: [](https://moaw.dev/workshop/gh:azure-samples/nodejs-microservices/main/docs/)
+
+## Additional Resources
+- [](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/microservices-architecture)
+- [](https://aws.amazon.com/what-is/service-oriented-architecture/)
+- [](https://azure.microsoft.com/blog/microservices-an-application-revolution-powered-by-the-cloud/)
+- [](https://docs.github.com/en/actions)
+- [](https://learn.microsoft.com/en-us/cli/azure/)
 
